@@ -57,8 +57,8 @@ The project fetches data from multiple subway stations:
   - Destination
   - Minutes until arrival
 - Time colors:
-  - Normal: Green
-  - Extended wait: Red
+  - Makeable: Green
+  - Out of reach: Red
     - L train: ≥7 minutes
     - 4/6 trains: ≥9 minutes
     - R/W/N/Q trains: ≥10 minutes
