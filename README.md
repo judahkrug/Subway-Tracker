@@ -2,7 +2,7 @@
 
 A CircuitPython project that displays real-time NYC subway arrival times on an LED matrix board. The display shows upcoming trains at nearby stations, including the L train (1st Ave), R/W/N/Q trains (8th Street), and 4/6 trains (Astor Place).
 
-![Version 1 Demo](https://github.com/judahkrug/Subway-Tracker/Tracker.gif)
+![Version 1 Demo](https://github.com/judahkrug/Subway-Tracker/blob/main/Tracker.gif)
 - Since this demo - new features have been added (shown below)
 
 ## Features
